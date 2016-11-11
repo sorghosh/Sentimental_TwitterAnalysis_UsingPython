@@ -5,10 +5,10 @@ import json
 import Prediction
 
 
-ckey = "eaYqdfDVI0JSKfolaOh9jAu03"
-csecret = "Es22gMf00GzhNH9AusEBsn3QOwXANPJzQpmtpl4lUjhvRRE01o"
-atoken = "331549130-2Tpg81HP139DCAmkVF7w3EgAy6Mxim0m2OH1o8Vw"
-asecret = "niDLgXdgv6WzFhv3b7T73UrbhMj6FHq9RrMPbjkB1my20"
+ckey = "xxxxxxx"
+csecret = "xxxxxxx"
+atoken = "xxxxxxx"
+asecret = "xxxxxxx"
 
 class listener(StreamListener):
     def on_data(self,data):
